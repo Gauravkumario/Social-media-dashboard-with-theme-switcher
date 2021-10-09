@@ -284,6 +284,12 @@ nav > div > p{
 	nav > div > p{
 		padding-top: 10px;
 	}
+
+	#second-div{
+		margin-top: 2rem;
+	}
+
+
 	#main-board,#report-board{
 		display: grid;
 		grid-template-columns: repeat(1,1fr);
