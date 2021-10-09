@@ -306,6 +306,9 @@ nav > div > p{
 		align-items: flex-start;
 		justify-content: space-between;
 	}
+	#toggle{
+		margin-top: 5px;
+	}
 	nav > div > h1{
 		font-size: 18px;
 	}
